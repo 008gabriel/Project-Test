@@ -2,5 +2,5 @@ TEST 1
 -Satu
 -Dua
 -Tiga
--Empat
 -Lima
+-Enam

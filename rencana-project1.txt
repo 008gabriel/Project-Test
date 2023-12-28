@@ -2,7 +2,9 @@ Rencana Project test
 -A
 *a-satu
 *a-dua
--E
+^a-dua-3
+^a-dua-2
 -B
+*b-satu
 -C
 -D

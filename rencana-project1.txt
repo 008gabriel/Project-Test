@@ -1,5 +1,7 @@
 Rencana Project test
 -A
+*a-satu
+*a-dua
 -B
 -C
 -D

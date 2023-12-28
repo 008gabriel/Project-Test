@@ -3,6 +3,7 @@ Rencana Project test
 *a-satu
 *a-dua
 ^a-dua-1
+^a-dua-2
 -E
 -B
 *b-satu
